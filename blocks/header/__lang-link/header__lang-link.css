@@ -4,5 +4,20 @@
   line-height: 28px;
   text-decoration: underline;
   font-weight: normal;
-  margin-right: 20px;
+  margin: 0 20px 0 0;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+ }
+
+ .header__lang-link:last-of-type {
+   margin: 0;
+   text-decoration: none;
+ }
+
+ .header__lang-link:hover {
+  opacity: 0.5;
+ }
+
+ .header__lang-link:active {
+  opacity: 0.3;
 }

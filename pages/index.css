@@ -1,5 +1,6 @@
 /*импорт вендоров*/
 @import url(../vendors/normalize.css);
+@import url(../vendors/fonts.css);
 
 /*основная страница*/
 @import url(../blocks/root/root.css);
