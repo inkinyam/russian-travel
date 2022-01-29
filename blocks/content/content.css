@@ -1,4 +1,6 @@
 .content {
-  width: 80vw;
+  max-width: 1280px;
+  min-width: 1025px;
   margin: 0 auto;
+  position: relative;
 }

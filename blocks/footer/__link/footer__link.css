@@ -1,0 +1,18 @@
+.footer__link {
+  color: white;
+  text-decoration: none;
+  margin-right: 18px;
+  text-decoration: none;
+  transition: text-decoration 0.3s ease-in;
+  opacity: 1;
+  transition: opacity 0.3s ease;
+}
+
+.footer__link:hover {
+  text-decoration: underline;
+  opacity: 0.5;
+}
+
+.footer__link:last-of-type {
+  margin-right: 0;
+}

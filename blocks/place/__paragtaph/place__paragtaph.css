@@ -1,0 +1,12 @@
+
+.place__paragtaph {
+  font-size: 18px;
+  font-weight: 400;
+  line-height: 29px;
+  padding-bottom: 26px;
+  margin: 0;
+}
+
+.place__paragtaph:last-of-type {
+  padding-bottom: 0;
+}

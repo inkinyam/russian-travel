@@ -1,9 +1,9 @@
 .photo-grid {
   display: grid;
-  grid-template-rows: repeat(3, 1fr);
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 213px);
+  grid-template-columns: repeat(4, 284px);
   gap: 16px;
 
 }
 
-/*выдрать из контейнера, ограничивающего ширину*/
+
