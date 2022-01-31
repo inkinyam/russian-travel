@@ -3,7 +3,7 @@
   font-size: 24px;
   line-height: 28px;
   text-decoration: none;
-  font-weight: normal;
+  font-weight: 400;
   margin: 0 20px 0 0;
   opacity: 1;
   transition: opacity .3s ease-in;
@@ -19,3 +19,9 @@
   text-decoration: underline;
  }
 
+ @media screen and (max-width:320px) {
+  .header__lang-link{
+    font-size: 18px;
+    line-height: 20px;
+  }
+}
