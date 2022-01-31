@@ -1,6 +1,23 @@
 .lead__image {
   margin: 0 auto;
-  max-width: 80%;
-  max-height: 615px;
-  min-width: 984px;
+  max-width: 78%;
+}
+
+
+@media screen and (max-width:1024px){
+  .lead__image {
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width:1024px){
+  .lead__image {
+    max-width: 90%;
+  }
+}
+
+@media screen and (max-width:768px){
+  .lead__image {
+    max-width: 100%;
+  }
 }
