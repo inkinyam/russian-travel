@@ -1,6 +1,9 @@
+/*используется для центрирования и чтобы избавиться от паддингов в каждой секции*/
 .content {
   max-width: 1280px;
   min-width: 1025px;
   margin: 0 auto;
   position: relative;
 }
+
+

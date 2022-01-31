@@ -4,6 +4,7 @@
   justify-content: space-between;
   padding: 92px 0 24px;
   margin: 0 auto;
-  min-width: 1184px;
+  min-width: 288px;
+  width: 90%;
   align-items: center;
 }
