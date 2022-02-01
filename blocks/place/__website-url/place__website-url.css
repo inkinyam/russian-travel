@@ -12,3 +12,9 @@
 .place__website-url:hover {
   opacity: 0.8;
 }
+
+@media screen and (max-width: 320px) {
+  .place__website-url {
+    padding: 0 16px;
+  }
+}

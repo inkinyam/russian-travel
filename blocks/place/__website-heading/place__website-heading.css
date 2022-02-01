@@ -5,4 +5,11 @@
   color: #AAA;
   margin: 0;
   padding-bottom: 12px;
+  letter-spacing: 2px;
+}
+
+@media screen and (max-width: 320px) {
+  .place__website-heading {
+    padding: 0 16px;
+  }
 }
