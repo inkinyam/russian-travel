@@ -2,8 +2,6 @@
   color: white;
   text-decoration: none;
   margin-right: 18px;
-  text-decoration: none;
-  transition: text-decoration 0.3s ease-in;
   opacity: 1;
   transition: opacity 0.3s ease;
 }
