@@ -1,9 +1,10 @@
-/*используется для центрирования и чтобы избавиться от паддингов в каждой секции*/
+/*используется для центрирования. белых ушей"*/
 .content {
   max-width: 1280px;
-  min-width: 1025px;
+  min-width: 320px;
   margin: 0 auto;
   position: relative;
+  display: flex;
+  flex-direction: column;
 }
-
 

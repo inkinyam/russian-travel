@@ -28,5 +28,6 @@
     grid-template-rows: repeat(12, 216px);
     grid-template-columns: repeat(1, 288px);
     gap: 12px;
-    max-width: 720px;}
+    max-width: 720px;
+  }
 }

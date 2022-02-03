@@ -3,6 +3,7 @@
   flex-direction: row;
   justify-content: space-between;
   padding: 28px 48px 0;
+  box-sizing: border-box;
   min-width: 288px;
   width: 90%;
   align-items: center;

@@ -4,3 +4,11 @@
   font-weight: 400;
   line-height: 16px;
 }
+
+@media screen and (max-width: 760px) {
+  .footer__copiryght{
+    line-height: 14px;
+    margin-top: 48px;
+  }
+
+}

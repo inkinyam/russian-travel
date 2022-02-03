@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 1024px) {
   .place__paragtaph {
-    min-width: 456px;
+    min-width: 100%;
   }
 }
 
