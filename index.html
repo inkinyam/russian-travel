@@ -9,24 +9,24 @@
 </head>
 
 <body class="page">
-<main class="content">
-<!--секция HEADER -->
 
+<!--секция HEADER -->
   <header class="header">
     <img class="header__logo" src="./images/header-logo.svg" alt="логотип">
-    <div class="header__lang-links">
-      <a class="header__lang-link" href="#">Ru</a>
-      <a class="header__lang-link" href="#">En</a>
-    </div>
+    <ul class="header__lang-links">
+     <li><a class="header__lang-link header__lang-link_active" href="#">Ru</a></li>
+     <li><a class="header__lang-link" href="#">En</a></li>
+    </ul>
    </header>
 
+<main class="content">
 <!--секция LEAD -->
-  <article class="lead">
+  <section class="lead">
     <h1 class="lead__title">Путешествия по России</h1>
     <p class="lead__subtitle">Настоящая страна не в выпусках новостей, а здесь.</p>
     <img class="lead__image" src="./images/lead-polka.jpg" alt="Полка в поезде с картой">
     <p class="lead__caption">Ваша полка - верхняя</p>
-  </article>
+    </section>
 
 <!--секция INTRO -->
   <section class="intro">
@@ -71,7 +71,7 @@
 <!--секция PLACES -->
   <section class="places">
     <div class="place">
-      <h3 class="place__title">Куршская коса</h3>
+      <h2 class="place__title">Куршская коса</h2>
       <div class="place__website">
         <p class="place__website-heading">URL</p>
         <a class="place__website-url" href="http://park-kosa.ru" target="_blank">park-kosa.ru</a>
@@ -87,7 +87,7 @@
     </div>
 
     <div class="place">
-      <h3 class="place__title">Кольский</h3>
+      <h2 class="place__title">Кольский</h2>
       <div class="place__website">
         <p class="place__website-heading">URL</p>
         <a class="place__website-url" href="https://yourshot.nationalgeographic.com/photos/?keywords=kolskiy" target="_blank">National Geographic</a>
@@ -105,7 +105,7 @@
     </div>
 
     <div class="place">
-      <h3 class="place__title">Алтай</h3>
+      <h2 class="place__title">Алтай</h2>
       <div class="place__website">
         <p class="place__website-heading">URL</p>
         <a class="place__website-url" href="https://www.facebook.com/vera.bashmakova/posts/10156011613718822" target="_blank">Facebook</a>
@@ -122,7 +122,7 @@
     </div>
 
     <div class="place">
-      <h3 class="place__title">Зимний Байкал</h3>
+      <h2 class="place__title">Зимний Байкал</h2>
       <div class="place__website">
         <p class="place__website-heading">URL</p>
         <a class="place__website-url" href="https://vk.com/baikalmile" target="_blank">https://vk.com/baikalmile</a>
@@ -138,7 +138,7 @@
     </div>
 
     <div class="place">
-      <h3 class="place__title">Карелия</h3>
+      <h2 class="place__title">Карелия</h2>
       <div class="place__website">
         <p class="place__website-heading">URL</p>
         <a class="place__website-url" href="http://vodlozero.ru" target="_blank">http://vodlozero.ru/</a>
@@ -160,8 +160,7 @@
         <p class="cover__subtitle">По мотивам учебной темы о Транссибе — путешествие от столицы до Байкала на электричках.</p>
     </a>
   </section>
-
-
+</main>
 
 <!--секция FOOTER -->
 <footer class="footer">
@@ -174,6 +173,5 @@
     </nav>
     <p class="footer__copiryght">© 2022. i_n_k_i</p>
   </footer>
-</main>
 </body>
 </html>
