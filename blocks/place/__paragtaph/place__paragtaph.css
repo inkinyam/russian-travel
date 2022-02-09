@@ -21,7 +21,7 @@
 @media screen and (max-width: 768px) {
   .place__paragtaph {
     font-size: 16px;
-    line-height: 25px;
+    line-height: 26px;
     min-width: 352px;
     padding-bottom: 25px;
   }
@@ -29,9 +29,8 @@
 
 @media screen and (max-width: 720px) {
   .place__paragtaph {
-    font-size: 16px;
-    line-height: 25px;
     min-width: 288px;
     padding: 0 16px;
   }
 }
+
