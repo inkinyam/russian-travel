@@ -1,0 +1,10 @@
+.cover__content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  grid-row: 1;
+  grid-column: 1;
+  position: relative;
+
+}

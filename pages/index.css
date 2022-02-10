@@ -46,9 +46,12 @@
 
 /*секция COVER*/
 @import url(../blocks/cover/cover.css);
+@import url(../blocks/cover/__link/cover__link.css);
+@import url(../blocks/cover/__background/cover__background.css);
 @import url(../blocks/cover/__title/cover__title.css);
+@import url(../blocks/cover/__content/cover__content.css);
 @import url(../blocks/cover/__subtitle/cover__subtitle.css);
-@import url(../blocks/cover/__backgroung/cover__backgroung.css);
+
 
 /*секция FOOTER*/
 @import url(../blocks/footer/footer.css);
