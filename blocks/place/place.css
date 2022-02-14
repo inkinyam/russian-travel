@@ -33,7 +33,7 @@
   .place {
     grid-template-columns: fit-content(320px);
     grid-template-rows: min-content min-content 320px min-content;
-    row-gap: 25px;
+    row-gap: 32px;
     grid-template-areas:
       "header"
       "url"

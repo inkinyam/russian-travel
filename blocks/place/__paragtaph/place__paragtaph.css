@@ -14,7 +14,7 @@
 
 @media screen and (max-width: 1024px) {
   .place__paragtaph {
-    min-width: 100%;
+    min-width: 456px;
   }
 }
 
@@ -30,7 +30,7 @@
 @media screen and (max-width: 720px) {
   .place__paragtaph {
     min-width: 288px;
-    padding: 0 16px;
+    padding: 0 16px 25px;
   }
 }
 

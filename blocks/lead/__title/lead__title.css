@@ -8,6 +8,13 @@
     text-align: center;
 }
 
+@media screen and (max-width: 1024px) {
+  .lead__title{
+    padding-top: 48px;
+  }
+}
+
+
 @media screen and (max-width: 720px) {
   .lead__title{
     font-size: 66px;
