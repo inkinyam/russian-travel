@@ -21,9 +21,15 @@
 7. Методология БЭМ
 8. Git
 
+### Макет
+Макет можно найти по [Ссылке](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-%2B-mobile?node-id=28503%3A0)
+
 ### Ссылка на GitHub pages
 
 Проект можно найти по адресу: https://inkinyam.github.io/russian-travel/
+
+### Планы по доработке
+Планируется сверстать расширенный [макет](https://www.figma.com/file/5PEoxONEq3Vtr9qQa8jwYD/Russia-%2F-desktop-%2B-mobile-(Copy)?node-id=0%3A1)
 
 ## Автор
 Проект разработан Серебренниковой Натальей, январь-февраль 2022 года.
